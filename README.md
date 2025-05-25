@@ -1,0 +1,60 @@
+From: Ryan Franti
+
+Please let me know if there are any issues!
+
+Don't forget to extract the UnEssay project folder if there are issues:
+Right-Click(on folder) -> extract all
+
+
+//////////////////
+
+
+In order to access the main application, you have to open the folders
+in this order:
+
+UnEssay project -> dist -> BeowulfStory -> BeowulfStory.exe
+
+Please note that if a command prompt window opens, it is COMPLETELY NORMAL.
+It is necessary to open the game, but I should have it disabled.
+
+The build folder is necessary for the program to run
+
+
+////////////////
+
+
+
+I have attached the following files for this project:
+
+
+
+-BeowulfStory.exe -- my main project deliverable. (dist -> BeowulfStory -> BeowulfStory.exe)
+##Please note that if a command prompt window opens, it is COMPLETELY NORMAL.
+It is necessary to open the game, but I should have it disabled.##
+
+
+-BeowulfStory.txt -- my source code in a .txt format. You should
+be able to read this on your computer
+
+
+-BeowulfStory.py -- DO NOT open this, this is my source code that
+I created before it was translated. If you have a python interpreter,
+you can run this using that, but it is unnecessary.
+
+
+-Unessay reflection - BeowulfStory.docx -- This is my reflection essay for
+this project.
+
+
+///////////////////
+
+
+The main 2 files you should look at are:
+
+BeowulfStory.exe
+
+and 
+
+UnEssay reflection - BeowulfStory.docx
+
+-- I hope you enjoy!--
